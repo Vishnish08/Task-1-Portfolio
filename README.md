@@ -1,7 +1,6 @@
 # Task-1-Portfolio
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -85,7 +84,7 @@
     <!-- Contact Section -->
     <section id="contact" class="py-20 px-6 bg-gray-900 text-center">
         <h2 class="text-3xl font-bold">Contact Me</h2>
-        <p class="mt-4">Email: <a href="mailto:vishakha@example.com" class="text-blue-400 hover:underline">mansvi@example.com</a></p>
+        <p class="mt-4">Email: <a href="mailto:vishakha@example.com" class="text-blue-400 hover:underline">vishakha@example.com</a></p>
         <p>LinkedIn: <a href="#" class="text-blue-400 hover:underline">linkedin.com/in/vishakha-bhavsar-/</a></p>
         <p>Phone: <span class="text-blue-400">+1234567890</span></p>
     </section>
